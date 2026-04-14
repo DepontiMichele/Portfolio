@@ -74,9 +74,9 @@ My process reflects standard industry practices:
 │   └── Dockerfile                # Environment containerization
 │
 ├── 04-Python-passwordgenerator/
-│   ├── password_gen.py      # User interface: menus, input/output flow
-│   ├── password_tools.py    # Core logic: generation, analysis, scoring
-│   └── validators.py        # Input validation: strings, integers, yes/no, choices
+│   ├── password_gen.py           # User interface: menus, input/output flow
+│   ├── password_tools.py         # Core logic: generation, analysis, scoring
+│   └── validators.py             # Input validation: strings, integers, yes/no, choices
 │
 └── 05-Cybersecurity-Audit/       # Team-based security analysis
     └── Security_Audit.pdf        # Presentation (AI-assisted synthesis)
