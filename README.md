@@ -1,12 +1,12 @@
 # Software Development Portfolio
 
-Welcome to my project portfolio. This repository showcases the technical skills and logic I have developed during my software development training, covering backend architecture, database management, and cloud-ready integrations.
+Welcome to my project portfolio. This repository showcases my technical progression and the practical skills I have developed during my software development training. My work spans backend architecture, database management, cloud-ready integration, and cybersecurity.
 
 ---
 
 ## 🛠 Tech Stack
 * **Languages:** Java, Python, SQL
-* **DevOps & Tools:** Docker, Git, GitHub, Linux Environments
+* **Infrastructure & DevOps:** Linux (Ubuntu), Docker, Python Virtual Environments
 * **Concepts:** OOP (Object-Oriented Programming), REST APIs, Data Security, Relational Databases
 
 ---
@@ -23,24 +23,37 @@ A complete relational schema for managing a clinic's daily operations.
 * **Goal:** Designing a reliable data structure for patients, doctors, and appointments.
 * **Key Skills:** Relationship modeling (1:N, N:N), data integrity, and complex SQL queries.
 
-### 3. Weather Fetcher & Docker Integration (Python)
+### 3. Weather Fetcher API & Docker (Python)
 A real-time integration with external web services.
 * **Goal:** Consuming the OpenWeatherMap REST API to provide live weather updates.
-* **Key Skills:** JSON parsing, HTTP request handling, and **Docker containerization** for consistent deployments.
+* **Key Skills:** JSON parsing, HTTP request handling, and **Docker containerization** for environment consistency.
 
 ### 4. Password Generator & Strength Analyzer (Python)
-A security-focused tool for safe data management.
+A security-focused utility tool.
 * **Goal:** Generating high-entropy passwords and analyzing existing ones through regex-based scoring.
-* **Key Skills:** Pattern matching (Regex), secure string generation, and user-input validation.
+* **Key Skills:** Pattern matching, secure string generation, and user-input validation.
+
+### 5. Cybersecurity Audit (Team Project)
+A collaborative audit identifying vulnerabilities in a sample application.
+* **Goal:** Identifying security risks (SQLi, XSS) and proposing mitigation strategies.
+* **Key Skills:** Security hardening, risk analysis, and team-based documentation synthesis.
+
+---
+
+## 🛡 Infrastructure & Security
+I am committed to building software that is not only functional but also secure and reliable:
+* **Linux-First Development:** I configure my development environments on **Linux**, leveraging Virtual Machines and Virtual Environments for strict dependency management.
+* **Collaborative Security:** I have experience working in teams to audit and secure applications, focusing on peer-reviewed code and structured documentation.
+* **AI-Assisted Workflow:** I utilize tools like **NotebookLM** to synthesize technical documentation and improve the quality of security reporting.
 
 ---
 
 ## 🚀 Development Workflow
-I follow a modern development cycle:
-1. **Logic Design:** Outlining requirements and object relationships.
-2. **Implementation:** Writing clean, documented code with a focus on readability.
-3. **Environment Management:** Using **Docker** to ensure the code runs identically across different systems.
-4. **Version Control:** Managing code iteratively through Git.
+My process reflects standard industry practices:
+1. **Requirements & Design:** Outlining logical structures and relationships.
+2. **Implementation:** Writing clean, modular, and documented code.
+3. **Containerization:** Using **Docker** to ensure portable and consistent deployment.
+4. **Version Control:** Managing iterative development through Git/GitHub.
 
 ---
 
