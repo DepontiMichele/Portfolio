@@ -78,7 +78,6 @@ My process reflects standard industry practices:
 │   ├── password_tools.py    # Core logic: generation, analysis, scoring
 │   └── validators.py        # Input validation: strings, integers, yes/no, choices
 │
-│
 └── 05-Cybersecurity-Audit/       # Team-based security analysis
     └── Security_Audit.pdf        # Presentation (AI-assisted synthesis)
 ```
