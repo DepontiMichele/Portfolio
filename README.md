@@ -56,7 +56,32 @@ My process reflects standard industry practices:
 4. **Version Control:** Managing iterative development through Git/GitHub.
 
 ---
-
+## 📂 Repository Structure
+```
+/Portfolio-Progetti
+├── README.md                     # Main portfolio documentation
+│
+├── 01-Java-SimCity/              # OOP-based city management system
+│   ├── SimCity/                  # Java source files (.java)
+│   └── README.md                 # Project design details
+│
+├── 02-SQL-MedicalCenter/         # Relational database project
+│   ├── centromedico.sql          # DDL script for table structure                  
+│   └── ER-Diagram.png            # Entity-Relationship diagram
+│
+├── 03-Python-WeatherAPI/         # API integration & DevOps
+│   ├── weather_api_client.py     # Weather service script
+│   └── Dockerfile                # Environment containerization
+│
+├── 04-Python-passwordgenerator/
+│   ├── password_gen.py      # User interface: menus, input/output flow
+│   ├── password_tools.py    # Core logic: generation, analysis, scoring
+│   └── validators.py        # Input validation: strings, integers, yes/no, choices
+│
+│
+└── 05-Cybersecurity-Audit/       # Team-based security analysis
+    └── Security_Audit.pdf        # Presentation (AI-assisted synthesis)
+```
 ## How to Contact Me
 I am looking for opportunities where I can apply my problem-solving skills and grow as a developer.
 * **LinkedIn:** www.linkedin.com/in/michele-deponti
