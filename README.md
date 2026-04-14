@@ -1,44 +1,53 @@
-# Portfolio: Software Development Projects
+# Software Development Portfolio
 
-## Overview
-This repository contains a collection of projects developed during my technical training course. These projects demonstrate my ability to apply fundamental programming concepts, database management, and external API integration.
+Welcome to my project portfolio. This repository showcases the technical skills and logic I have developed during my software development training, covering backend architecture, database management, and cloud-ready integrations.
 
 ---
 
-## Projects
+## 🛠 Tech Stack
+* **Languages:** Java, Python, SQL
+* **DevOps & Tools:** Docker, Git, GitHub, Linux Environments
+* **Concepts:** OOP (Object-Oriented Programming), REST APIs, Data Security, Relational Databases
+
+---
+
+## 📂 Project Highlights
 
 ### 1. SimCity Entity Modeling (Java)
-A foundational project focused on **Object-Oriented Programming (OOP)**.
-* **Goal:** Model core game entities such as buildings, citizens, and public services.
-* **Key Skills:** Inheritance, Encapsulation, Polymorphism, and class relationship design.
+Focuses on the core principles of **Object-Oriented Programming**.
+* **Goal:** Architecting a city management system by modeling citizens, buildings, and services.
+* **Key Skills:** Inheritance, encapsulation, and polymorphism.
 
-### 2. Medical Center Booking System (Database)
-A relational database project designed to manage a medical clinic's operations.
-* **Goal:** Handle the data logic between doctors, patients, and appointment scheduling.
-* **Key Skills:** SQL (DDL), Primary/Foreign Key constraints, and Entity-Relationship modeling.
-* **Visuals:** See "schema".
+### 2. Medical Center Database (SQL)
+A complete relational schema for managing a clinic's daily operations.
+* **Goal:** Designing a reliable data structure for patients, doctors, and appointments.
+* **Key Skills:** Relationship modeling (1:N, N:N), data integrity, and complex SQL queries.
 
-### 3. Weather Fetcher API (Python)
-A utility script designed to interact with external web services in real-time.
-* **Goal:** Fetch real-time weather data for a specific location using the OpenWeatherMap REST API.
-* **Key Skills:** Working with JSON data, HTTP requests (`requests` library), and error handling.
+### 3. Weather Fetcher & Docker Integration (Python)
+A real-time integration with external web services.
+* **Goal:** Consuming the OpenWeatherMap REST API to provide live weather updates.
+* **Key Skills:** JSON parsing, HTTP request handling, and **Docker containerization** for consistent deployments.
+
+### 4. Password Generator & Strength Analyzer (Python)
+A security-focused tool for safe data management.
+* **Goal:** Generating high-entropy passwords and analyzing existing ones through regex-based scoring.
+* **Key Skills:** Pattern matching (Regex), secure string generation, and user-input validation.
+
+---
+
+## 🚀 Development Workflow
+I follow a modern development cycle:
+1. **Logic Design:** Outlining requirements and object relationships.
+2. **Implementation:** Writing clean, documented code with a focus on readability.
+3. **Environment Management:** Using **Docker** to ensure the code runs identically across different systems.
+4. **Version Control:** Managing code iteratively through Git.
 
 ---
 
-## Technologies Used
-* **Languages:** Java, Python, SQL
-* **Tools:** Apache NetBeans, Git, GitHub
-* **Environment:** Linux (Python Virtual Environments)
-
-### Development Workflow
-For this project, I have started exploring **Docker** to containerize my applications. 
-* **Goal:** Create consistent development environments and streamline the deployment process.
-* **Status:** Actively learning container management and image creation.
-
-## How to use
-- **Java:** Import the project folder into your IDE (NetBeans/IntelliJ).
-- **Database:** Execute the `schema.sql` file in your preferred SQL management tool.
-- **Python:** Ensure you have the `requests` library installed (`pip install requests`) and use your own API key in the script.
+## How to Contact Me
+I am looking for opportunities where I can apply my problem-solving skills and grow as a developer.
+* **LinkedIn:** www.linkedin.com/in/michele-deponti
+* **Email:** depontimichele13@gmail.com
 
 ---
-*Note: This portfolio is a work-in-progress, documenting my learning journey through various technical modules.*
+*Last updated: April 2026*
