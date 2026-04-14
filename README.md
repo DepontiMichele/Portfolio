@@ -62,7 +62,7 @@ My process reflects standard industry practices:
 ├── README.md                     # Main portfolio documentation
 │
 ├── 01-Java-SimCity/              # OOP-based city management system
-│   ├── SimCity/                  # Java source files (.java)
+│   ├── Src/                      # Java source files (.java)
 │   └── README.md                 # Project design details
 │
 ├── 02-SQL-MedicalCenter/         # Relational database project
