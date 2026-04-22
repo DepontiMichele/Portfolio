@@ -4,6 +4,10 @@ Welcome to my project portfolio. This repository showcases my technical progress
 
 ---
 
+🔗 **Live Portfolio:** [depontimichele.github.io/DepontiMichele](https://depontimichele.github.io/DepontiMichele/)
+
+---
+
 ## 🛠 Tech Stack
 * **Languages:** Java, Python, SQL
 * **Infrastructure & DevOps:** Linux (Ubuntu), Docker, Python Virtual Environments
